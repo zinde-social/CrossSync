@@ -22,7 +22,7 @@ specifiers:
   browserify-zlib: 0.2.0
   buffer: 6.0.3
   crossbell.js: 0.10.38
-  element-plus: 2.2.19
+  element-plus: 2.3.6
   ethers: 5.7.2
   events: 3.3.0
   husky: 8.0.1
@@ -61,7 +61,7 @@ dependencies:
   bind-decorator: 1.0.11
   buffer: 6.0.3
   crossbell.js: 0.10.38_node-fetch@3.2.10
-  element-plus: 2.2.19_vue@3.2.41
+  element-plus: 2.3.6_vue@3.2.41
   ethers: 5.7.2
   events: 3.3.0
   lodash-es: 4.17.21
@@ -2333,8 +2333,8 @@ packages:
     resolution: {integrity: sha512-x+JnqyluoJv8I0U9gVe+Sk2st8vF0CzMt78SXxuoWCooLLY2k5VerIBdpvG7ql6GKI4dzNnPjmqgDJ76EdaAKw==}
     dev: true
 
-  /element-plus/2.2.19_vue@3.2.41:
-    resolution: {integrity: sha512-uN0gt9lUus/IHzu5J6vkbYoYJgUtU05osdtFv9RO27bHKOG5GN7dH6uA3OKfkQQ6R2sV8ZxY1rc9PH1X8Dgrow==}
+  /element-plus/2.3.6_vue@3.2.41:
+    resolution: {integrity: sha512-GLz0pXUYI2zRfIgyI6W7SWmHk6dSEikP9yR++hsQUyy63+WjutoiGpA3SZD4cGPSXUzRFeKfVr8CnYhK5LqXZw==}
     peerDependencies:
       vue: ^3.2.0
     dependencies:
